@@ -9,6 +9,7 @@ public class RubiTanPick extends ItemRM
         super();
         this.setUnlocalizedName("PicAxe");
         this.setCreativeTab(CreativeTabRM.RM_TAB);
+        this.setMaxDamage(2000);
         this.setHarvestLevel("pickaxe", 3);
         this.setMaxStackSize(1);
     }

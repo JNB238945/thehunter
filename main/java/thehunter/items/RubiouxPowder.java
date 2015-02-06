@@ -2,13 +2,12 @@ package thehunter.items;
 
 import thehunter.CreativeTab.CreativeTabRM;
 
-public class RubiTanHoe extends ItemRM
+public class RubiouxPowder extends ItemRM
 {
-    public RubiTanHoe()
+    public RubiouxPowder()
     {
         super();
-        this.setUnlocalizedName("hoe");
-        this.setMaxStackSize(1);
+        this.setUnlocalizedName("rubipowder");
         this.setCreativeTab(CreativeTabRM.RM_TAB);
     }
 }

@@ -1,5 +1,11 @@
 package thehunter.Utility;
 
+/* Credit for this file Creation goes to Pahimar
+   I Have been watching his tutorials during this
+   First mod creation of mine..
+   I just borrowed this file from his Repository.
+*/
+
 import thehunter.Reference.Reference;
 import cpw.mods.fml.common.FMLLog;
 import org.apache.logging.log4j.Level;
